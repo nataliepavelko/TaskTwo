@@ -21,8 +21,7 @@ public class TaskTwo {
 
         System.out.println("");
         System.out.println("Вывод первого варианта");
-        System.out.print("Name:  " + name + "\n" + "City:  " +  city + "\n"
-                + "Age:   " + age + "\n" + "Hobby: " + hobby + "\n" );
+        System.out.print("Name:  " + name  + "City:  " +  city + "Age:   " + age  + "Hobby: " + hobby  );
 
         System.out.println("");
         System.out.println("Вывод второго варианта");
